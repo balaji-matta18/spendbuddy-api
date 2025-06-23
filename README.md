@@ -14,7 +14,7 @@ It’s designed with modular services, secure authentication, and expandable rol
 
 ## 🧬 Architecture Diagram
 
-![View Architecture Diagram](Docs\Architecture\Architecture.png)
+![View Architecture Diagram](Docs/Architecture/Architecture.png)
 
 
 ## 🧰 Services & Major Components
